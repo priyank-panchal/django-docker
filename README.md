@@ -6,7 +6,7 @@ This project is a Django web application that is designed to be run using Docker
 Docker (make sure it's installed and running on your machine)
 Git (if you haven't already, set up a GitHub account and install Git)
 
-Contributing
+# Contributing
 Contributions to this project are welcome! If you find a bug or have a feature request, please submit an issue. If you would like to contribute code, please follow these steps:
 
 1)Fork the repository.
